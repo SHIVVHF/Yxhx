@@ -68,7 +68,7 @@
 
       "description": "FR_TOKEN",
 
-      "value":"5115275139:AAEJwqeGo0RmycATNb-1gBxUm9sRZYFXJlQ",
+      "value":"6274752151:AAFfCgIyZPbMl_bYIPoY8ry0WhvE3Gl5JPY",
 
       "required": true
 
@@ -86,7 +86,7 @@
 
     "GROUP_IDS": {
       
-      "value":"-1001827442000",
+      "value":"-1001604599719",
 
       "description": "Group Ids seperated by space",
 
